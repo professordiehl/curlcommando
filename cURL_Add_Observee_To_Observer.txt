@@ -1,0 +1,3 @@
+curl 'https://canvasinstance.instructure.com/api/v1/users/<user_id>/observees/<observee_id>' \
+     	-X PUT  \
+	-H ‘Authorization: Bearer 1345~phoneybaloneyAPIToken’
